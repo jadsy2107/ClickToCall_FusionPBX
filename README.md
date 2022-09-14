@@ -21,5 +21,8 @@ Finally if you don't like Google Chrome adding an extra click, confirming to use
 Note: If you want to call a number from anywhere that doesn't have the appropriate link - simply highlight the number and press CTRL-SHIFT-C to initiate a call. 
 
 
+IT SHOULD ALSO BE NOTED:
+This is not a SIP client, this leveregaes the Click To Call functionality provided by FusionPBX, clicking to call will initiate a call to the users assigned Extension, when answered - it will then dial the number
+
 
 
