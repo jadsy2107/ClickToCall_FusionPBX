@@ -18,5 +18,8 @@ In the URL feild just put domain.com not https://domain.com - it will automatica
 Finally if you don't like Google Chrome adding an extra click, confirming to use the app to call, install the Registry Key ClickToCall.reg
 
 
+Note: If you want to call a number from anywhere that doesn't have the appropriate link - simply highlight the number and press CTRL-SHIFT-C to initiate a call. 
+
+
 
 
